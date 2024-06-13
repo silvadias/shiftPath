@@ -26,6 +26,9 @@ A Plataforma Empreendedora Shift tem como objetivo capacitar candidatos não sel
 - **Mecanismo de Retorno Financeiro:** Calcular e distribuir retornos financeiros com base no desempenho e na valorização dos negócios.
    
 - **Interface para Investidores:** Interface para que os candidatos apresentem seus projetos a potenciais investidores, se desejado.
+  
+- **Gestão Financeira das Empresas Formadas pelo Projeto Shift:** Implementar um sistema de gestão financeira específico para cada empresa formada pelo Projeto Shift, gerido pela equipe de contadores especializados e descentralizados. Esse sistema assegura o controle do fluxo de caixa e dos recursos financeiros da empresa, promovendo transparência e eficiência na gestão financeira para todos os envolvidos, inclusive investidores, garantindo uma visão clara e precisa das operações financeiras.
+- **Integração de Recursos Humanos:** Integrar processos de recrutamento e seleção de empregos, semelhante ao LinkedIn e outras plataformas, para facilitar o fluxo de candidatos e a formação de novas equipes empreendedoras.
 
 ### Impacto do Projeto
 A Shift representa mais do que uma ideia; ela simboliza uma revolução que transforma vidas e muda o aspecto econômico mundial. Ao redefinir a gestão de habilidades, papéis e responsabilidades individuais e estatuto, a Shift capacita os candidatos a se tornarem sócios em empresas onde contribuem de forma responsável e se beneficiam financeiramente de suas iniciativas.
