@@ -1,2 +1,6 @@
-# shiftPath
-Transformação no Recrutamento: Software inovador para transformar candidatos em empreendedores capazes de formar equipes multidisciplinares. Utiliza algoritmos avançados para catalogar talentos e promover colaboração eficaz na resolução de problemas reais.
+# shift
+Candidatos não selecionados criam suas próprias empresas como sócios, com tutoria da Shift, formando sociedades inovadoras que fomentam o empreendedorismo e impactam positivamente a economia e o desemprego.
+
+Apresentamos um software inovador que gerencia as habilidades dos candidatos e os alinha com as necessidades dos cargos para formar empresas dinâmicas. Cada membro assume suas responsabilidades e tem a oportunidade de se beneficiar de um capital de retorno baseado na valorização de suas próprias empresas. Este modelo flexível permite que os empreendedores decidam se desejam abrir seus projetos para investidores ou mantê-los fechados entre eles e a gestão da Shift, adaptando-se às necessidades individuais de financiamento e crescimento dos negócios.
+
+Shift não é apenas uma ideia; é uma revolução que transforma o mundo e as vidas das pessoas. Nosso conceito de negócio redefine a gestão de habilidades e cargos, capacitando candidatos a se tornarem sócios em empresas onde cada um contribui com responsabilidade e participa do retorno financeiro com base na valorização de suas próprias iniciativas. Esta abordagem não apenas impulsiona o empreendedorismo, mas também inspira uma mudança significativa no panorama econômico global.
